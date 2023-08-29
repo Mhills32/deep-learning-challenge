@@ -1,1 +1,4 @@
 # deep-learning-challenge
+DATA PREPROCESSING:  1) The target is the "Is Successful"column.  2) Name, Application, type, Affiliation, Classification, use case, organization, income amt, special considerations, status ask amt  3)The EIN could be confusing for the system making it think it's significant when there's no value. 
+COMPILING TRAINING AND EVALUATING THE MODEL: 1) The model has 3 hidden layers with each having many layers. 2) yes 3)Converted the name column to data points and adding a third layer. 
+SUMMARY: the random forest model seem to be the best recommendation, the accuracy level is high
